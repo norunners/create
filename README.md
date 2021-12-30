@@ -1,6 +1,7 @@
 # create
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/norunners/create.svg)](https://pkg.go.dev/github.com/norunners/create)
+[![Test](https://github.com/norunners/create/actions/workflows/test.yml/badge.svg)](https://github.com/norunners/create/actions/workflows/test.yml)
 
 Package `create` provides a generic option pattern for creating new values of any type.
 
